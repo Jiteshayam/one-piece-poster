@@ -11,11 +11,11 @@ After Wano Country Arc 8,816,001,000 Belly
 
 ## Photo
 
-  ![image](https://github.com/Jiteshayam/one-piece-poster/assets/93565822/8fcdcf69-f856-4b86-959c-b5503159e01c)
-  ![image](https://github.com/Jiteshayam/one-piece-poster/assets/93565822/25ddf928-7e99-4795-9002-b63837748475)
-  ![image](https://github.com/Jiteshayam/one-piece-poster/assets/93565822/e93f00f0-a7b3-4090-8f40-81a76a9722c2)
-  ![image](https://github.com/Jiteshayam/one-piece-poster/assets/93565822/adfb4572-2688-416d-a95a-2c040ee81f42)
-
+  ![image](https://github.com/Jiteshayam/one-piece-poster/blob/main/images/demo/photo1.png)
+  ![image](https://github.com/Jiteshayam/one-piece-poster/blob/main/images/demo/photo2.png)
+  ![image](https://github.com/Jiteshayam/one-piece-poster/blob/main/images/demo/photo3.png)
+  ![image](https://github.com/Jiteshayam/one-piece-poster/blob/main/images/demo/photo4.png)
+  
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
