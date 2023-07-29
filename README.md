@@ -9,7 +9,7 @@ The Straw Hat Pirates' bounties prior to the Wano Country Arc.
 After Wano Country Arc 8,816,001,000 Belly
 
 
-## Photo
+## Screenshots
 
   ![image](https://github.com/Jiteshayam/one-piece-poster/blob/main/images/demo/photo1.png)
   ![image](https://github.com/Jiteshayam/one-piece-poster/blob/main/images/demo/photo2.png)
